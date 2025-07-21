@@ -99,6 +99,8 @@
 
    . Dashboard 2: Best/Worst Sellers
 
+   ![Image ALt](https://github.com/badalsingh91461/Pizza_Sales_Analysis/blob/main/Pizza_best_worst_seller.png?raw=true)
+
 
 
    
