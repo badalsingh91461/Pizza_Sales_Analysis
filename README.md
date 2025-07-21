@@ -91,7 +91,11 @@
    . Dashboard 1: Sales Overview
 
    . Dashboard 2: Best/Worst Sellers
-   
+
+
+
+
+   ![Image Alt](https://github.com/badalsingh91461/Pizza_Sales_Analysis/blob/main/Pizza_Home_page.png?raw=true)
 
 
 **10.)  💼 Real-World Applications:**
