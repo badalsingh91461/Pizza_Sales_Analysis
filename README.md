@@ -129,7 +129,8 @@
 
 ****   **
 12. Screenshots/Demos:**
-     dashboard looks like [Dashboard Preview].(https://github.com/badalsingh91461/mobile_Sales_dashboard/blob/main/mobile_Sales.Dashboard.png)****
+      Home dashboard looks like [Dashboard Preview].(https://github.com/badalsingh91461/Pizza_Sales_Analysis/blob/main/Pizza_Home_page.png)****
+      Best/Worst Seller dashboard looks like [Dashboard Preview].(https://github.com/badalsingh91461/Pizza_Sales_Analysis/blob/main/Pizza_Home_page.png)****
 
 
 
