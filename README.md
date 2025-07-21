@@ -127,8 +127,13 @@
    . Applied best practices in data visualization for improved usability and insights.
 
 
+****   **
+12. Screenshots/Demos:**
+     dashboard looks like [Dashboard Preview].(https://github.com/badalsingh91461/mobile_Sales_dashboard/blob/main/mobile_Sales.Dashboard.png)****
 
-**12.) 🔗 Connect:**
+
+
+**13.) 🔗 Connect:**
     For collaboration, feedback, or mentoring, feel free to reach out:
 
    💼 ("badalsingh125v@gmail.com")
