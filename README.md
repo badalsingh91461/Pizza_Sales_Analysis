@@ -3,7 +3,7 @@
 
 
 **1.) 📌 Project Summary:**
-   The Pizza Sales Analysis Dashboard is an interactive, insight-driven Power BI project developed to evaluate key business metrics for a pizza delivery business.    Covering a full year of operations (Jan–Dec 2015), the dashboard enables comprehensive performance tracking through key KPIs, sales trends, category analysis,     and best/worst product insights. It empowers stakeholders to make data-backed decisions related to product strategy, operations, and marketing.
+   The Pizza Sales Analysis Dashboard is an interactive, insight-driven Power BI project developed to evaluate key business metrics for a pizza delivery business.  Covering a full year of operations (Jan–Dec 2015), the dashboard enables comprehensive performance tracking through key KPIs, sales trends, category analysis,     and best/worst product insights. It empowers stakeholders to make data-backed decisions related to product strategy, operations, and marketing.
    
 
 **2.) 🎯 Objective:**
@@ -132,12 +132,12 @@
       Home dashboard looks like [Dashboard Preview].(https://github.com/badalsingh91461/Pizza_Sales_Analysis/blob/main/Pizza_Home_page.png)****
 
 
-      Best/Worst Seller dashboard looks like [Dashboard Preview].(https://github.com/badalsingh91461/Pizza_Sales_Analysis/blob/main/Pizza_best_worst_seller.png)****
+      Best/Worst Seller Dashboard looks like [Dashboard Preview].(https://github.com/badalsingh91461/Pizza_Sales_Analysis/blob/main/Pizza_best_worst_seller.png)****
 
 
 
 **13.) 🔗 Connect:**
-    For collaboration, feedback, or mentoring, feel free to reach out:
+    For collaboration, feedback feel free to reach out:
 
    💼 ("badalsingh125v@gmail.com")
 
